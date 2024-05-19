@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Knowledgebase",
+    "description": "PubMed article Classifier",
+    "image": "/projectImages/team.png",
+    "image2": "/projectImages/teamcelebrating.png",
+    "image3": "/projectImages/team3.png",
+    "technologies": ["RShiny", "MongoDB", "LLM", "Classification"],
+    "body": "This Node.js command-line application generates an interactive team dashboard from user-provided data. It accepts information about team members and outputs a dynamic HTML page profiling the entire group.\nRather than relying on static spreadsheets, this tool creates a customizable web page that brings employee data to life. The dashboard auto-populates with profiles for each team member, containing details provided via the command-line input.\nBuilt on RShiny, this project demonstrates skills in crafting SQL based server-side frameworks. It handles input data dynamically to render an animated, engaging profile of the entire team. The end result is an shareable HTML page that serves as a creative alternative to traditional spreadsheet-based team overviews.",
+    "github": "https://github.com/Asankoli/PmedMlKb",
+    "deployed": "https://pmedmlknowledgebase.shinyapps.io/machineset-main/",
+    "bgcolor": "#6c4bf4",
+    "id": "1"
+  },
+  {
+    "title": "AlphaZero for Game Playing",
+    "description": "ML/AI",
+    "image": "/projectImages/P1.png",
+    "image2": "/projectImages/f1.jpeg",
+    "image3": "/projectImages/p13.png",
+    "body": "Our AlphaZero Board Game AI project showcases advanced machine learning techniques applied to classic board games like TicTacToe and Connect Four.\n The trained agents demonstrated exceptional strategic reasoning, consistently outperforming human players and achieving optimal gameplay strategies.\nKey features of this project include:\n➤ Superior Gameplay Performance: The AlphaZero agents exhibited strong strategic understanding and adaptive gameplay in TicTacToe and Connect Four, effectively countering opponent moves and securing victories.\n➤ Hyperparameter Tuning: Careful adjustment of hyperparameters, particularly maintaining a low temperature parameter, optimized the AI’s learning process. This approach favored conservative strategies, especially in TicTacToe, leading to frequent draw outcomes, while Connect Four saw advanced strategic maneuvers and marked learning advancements.\n➤ Quantitative Validation: Training efficacy was demonstrated through diminishing cross-entropy and mean squared error losses over successive training epochs, highlighting the AI’s improved move selection and game state valuation.\n➤ Interactive User Experience: A Django-based interface allowed users to engage in interactive gameplay sessions with the AI agents, providing insights into their strategies and decision-making processes.\nOverall, this project underscores the capabilities of AI in mastering complex board games, offering a blend of advanced machine learning, strategic gameplay, and interactive user engagement.",
+    "technologies": ["React", "Framer Motion", "Bootstrap", "HTML", "CSS"],
+    "github": "https://github.com/Jake-W95/P1",
+    "deployed": "https://p1-heroes.netlify.app/",
+    "bgcolor": "#e47911",
+    "id": "2"
+  },
+  {
+    "title": "Dogeify Streaming app",
+    "description": "Music for Dogs",
+    "image": "/projectImages/quiz.png",
+    "image2": "/projectImages/javascript.jpeg",
+    "image3": "/projectImages/quiz3.png",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "body": "Dogeify is a music streaming app designed for dogs and their owners.\n Key features include:\n➤User-Friendly Interface: Easy navigation to discover new songs for your dog.\n➤Features Section: Highlights benefits like ease of use, an elite song collection, and a satisfaction guarantee.\n➤Testimonials: Real user reviews showing positive impacts.\n➤Pricing Plans: Three tiers from free to premium with unlimited features.\n➤Press Coverage: Logos from major media outlets.\n➤Call to Action: Download buttons for Apple and Google Play stores.\nDogeify brings joy to dogs through music, offering an enjoyable experience for both dogs and their owners.",
+    "github": "https://github.com/Asankoli/Dogeify",
+    "deployed": "https://asankoli.github.io/Dogeify/",
+    "bgcolor": "#f85781",
+    "id": "3"
+  },
+
+  {
+    "title": "Data Lake",
+    "description": "Move music startup data to data lake",
+    "image": "/projectImages/weather.png",
+    "image2": "/projectImages/storm.jpeg",
+    "image3": "/projectImages/weather3.png",
+    "technologies": ["AWS", "S3", "PySpark", "CSS"],
+    "body": "In this project, we developed an ETL pipeline for Sparkify, a music streaming startup, to move their data warehouse to a data lake on S3. The data, consisting of JSON logs on user activity and song metadata, resides in S3.\nKey Steps:\n➤ETL Pipeline: We built an ETL pipeline using Spark to load, process, and transform the data into analytics tables.\n➤Data Processing: The pipeline reads song and log data from S3, processes it with Spark, and creates five tables: one fact table (songplays) and four dimension tables (users, songs, artists, time).\n➤Deployment: The Spark process is deployed on an AWS EMR cluster, ensuring efficient data processing and scalability.\n➤Output: The processed data is written back to S3 as partitioned parquet files.\nThis project showcases the ability to handle large-scale data processing and analytics in a cloud environment using Spark and AWS.",
+    "github": "https://github.com/Asankoli/DataLake",
+    "deployed": "https://github.com/Asankoli/DataLake",
+    "bgcolor": "var(--hl-color)",
+    "id": "4"
+  },
+
+  {
+    "title": "Routes",
+    "description": "Plan Safe Routes",
+    "image": "/projectImages/bike.png",
+    "image2": "/projectImages/cyclingfamily.jpeg",
+    "image3": "/projectImages/routes3.png",
+    "body": "During my intensive coding bootcamp, I teamed up with others to create an MVP project focused on route optimization. I was responsible for the route management aspect, demonstrating a deep understanding of the project's details.Our goal was to improve the safety of young cyclists. We used Leaflet.js and TomTom's Routing/Reverse Geolocation APIs to achieve this.We developed an interactive map where users could meticulously plan their routes, taking into account real-time traffic updates, bike lanes, and terrain gradients. This resulted in a visually engaging map designed with safety and enjoyment in mind.",
+    "technologies": ["Leaflet", "jQuery", "Bootstrap", "HTML", "CSS"],
+    "github": "https://github.com/Asankoli/BikeBuddy",
+    "deployed": "https://asankoli.github.io/BikeBuddy/",
+    "bgcolor": "var(--hl2-color)",
+    "id": "5"
+  },
+
+  {
+    "title": "Business Planner",
+    "description": "Yeld Restaurant Business Analysis",
+    "image": "/projectImages/planner.png",
+    "image2": "/projectImages/workplanner.jpeg",
+    "image3": "/projectImages/planner3.png",
+    "technologies": ["Streamlit", "Python", "Bootstrap", "HTML", "CSS"],
+    "body": "The Yelp Business Dashboard is a Streamlit app designed to provide in-depth analysis and insights into Yelp business data. This interactive tool allows users to explore Yelp businesses through dynamic visualizations and targeted analysis.\nKey Features:\n    ➤Interactive Visualizations: Explore Yelp data with user-friendly charts and graphs.\n➤Area-Based Analysis: Select specific regions to analyze restaurant reviews and business performance.\n➤Keyword Analysis: View keyword diagrams showcasing frequently mentioned words in reviews for chosen areas.\n➤Business Analysis: Detailed insights into businesses based on ratings, review counts, and other factors.\nBuilt with Python and utilizing Streamlit for a seamless and engaging user experience, the Yelp Business Dashboard is a valuable tool for business owners, analysts, and enthusiasts looking to gain actionable insights from Yelp data.",
+    "github": "https://github.com/Asankoli/Yelp-Business-Data-Visualization-Project",
+    "deployed": "https://github.com/Asankoli/Yelp-Business-Data-Visualization-Project",
+    "bgcolor": "#3e67ff",
+    "id": "6"
+  }
+]

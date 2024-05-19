@@ -1,0 +1,44 @@
+/* --- MOBILE STYLES --- */
+
+.landing .name {
+  font-size: 48px;
+  letter-spacing: -3px;
+}
+.landing .description {
+  font-size: 22px;
+  letter-spacing: 1.5px;
+}
+
+.landingImage {
+  right: 0px;
+  /* z-index: -1; */
+}
+
+.landing .socialIcons {
+  display: flex;
+  position: absolute;
+  left: 50px;
+  bottom: 20px;
+}
+
+/* --- MEDIA QUERIES --- */
+
+@media (max-width: 2270px) {
+  .landing .name {
+    font-size: 70px;
+  }
+
+  .landing .description {
+    font-size: 32px;
+  }
+
+  .landingImage {
+    bottom: 0;
+    right: 80px;
+    z-index: -1;
+  }
+
+  .landing .socialIcons {
+    flex-direction: column;
+  }
+}
