@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-// import { AiOutlineStar } from "react-icons/ai";
-// import { BiGitRepoForked } from "react-icons/bi";
+import { AiOutlineStar } from "react-icons/ai";
+import { BiGitRepoForked } from "react-icons/bi";
 // import { motion } from "framer-motion";
 import SocialIcons from "./SocialIcons";
 
@@ -35,14 +35,14 @@ const Footer = () => {
   }, []);
 
   // Variants for button animation
-  const buttonVariants = {
-    hover: {
-      scale: 1.05,
-    },
-    tap: {
-      scale: 1,
-    },
-  };
+  // const buttonVariants = {
+  //   hover: {
+  //     scale: 1.05,
+  //   },
+  //   tap: {
+  //     scale: 1,
+  //   },
+  // };
 
   return (
     <footer>
@@ -52,8 +52,8 @@ const Footer = () => {
       {/* GitHub repository link */}
       <a className="footer-link" href="https://github.com/Asankoli/Ani_Portfolio">
         <span>
-          {/* <AiOutlineStar /> {gitHubInfo.stars} <BiGitRepoForked />
-          {gitHubInfo.forks} - Give this project a star! */}
+          <AiOutlineStar /> {gitHubInfo.stars} <BiGitRepoForked />
+          {gitHubInfo.forks} - Give this project a star!
         </span>
         <p>
           <span>▷</span>Aniruddha Sankoli &copy; {currentYear}
