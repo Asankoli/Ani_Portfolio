@@ -16,12 +16,12 @@
     <a href="https://github.com/Asankoli/Ani_Portfolio">
       <img src="src/images/logo.svg" alt="Logo" width="200" height="200">
     </a>
-    <h1 align="center">michaelyeates.co.uk</h1>
+    <h1 align="center">https://anisank.netlify.app/</h1>
     <p align="center">
     <br/>
 Crafting Connections through Code: Explore my journey, projects, and passions in this immersive portfolio powered by React.<br/>
       <br/>
-      Built by: Michael Yeates
+      Built by: Aniruddha Sankoli
       <br/>
       <br/>
       <a href="https://github.com/Asankoli/Ani_Portfolio"><strong>Explore the docs »</strong></a>
@@ -65,14 +65,6 @@ Crafting Connections through Code: Explore my journey, projects, and passions in
   ## About The Project
   
   ### Photos
-  
-[![My React Portfolio Screen Shot][product-screenshot]](https://michaelyeates.co.uk)
-
-[![My React Portfolio Screen Shot][product-screenshot2]](https://michaelyeates.co.uk)
-
-[![My React Portfolio Screen Shot][product-screenshot3]](https://michaelyeates.co.uk)
-
-[![My React Portfolio Screen Shot][product-screenshot4]](https://michaelyeates.co.uk)
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   
@@ -84,14 +76,6 @@ Crafting Connections through Code: Explore my journey, projects, and passions in
   
   ### Description
   
-This is more than a portfolio; it's an invitation to explore, learn, and connect. So, immerse yourself and enjoy the journey.
-
-While I wholeheartedly encourage you to utilise my portfolio as a springboard for your own creative ventures, I would like to kindly ask that, in the spirit of fairness and recognition, you provide attribution to <strong>michaelyeates.co.uk</strong>. Your support in acknowledging the origin of this portfolio is greatly appreciated.
-
-I kindly urge you to abstain from portraying either the portfolio or the projects as products of your own authorship. The energy and time devoted to shaping this portfolio reflect my personal journey and aspirations.
-
-Thank you for your understanding, and for embracing the ethos of creativity, authenticity, and shared respect that underpins our digital community. Your appreciation means a lot!
-
 If you like what you see, I'd be truly grateful if you consider giving it a star 🌟
 
 <h3>TL;DR</h3>
@@ -139,7 +123,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
   
 ## Questions
 
-If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:michael-yeates@outlook.com">michael-yeates@outlook.com</a>
+If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:sankoli.ani@gmail.com">sankoli.ani@gmail.com</a>
 
 <a href="https://www.linkedin.com/in/mdyeates/">LinkedIn</a> | <a href="https://github.com/mdyeates/">GitHub</a>
 

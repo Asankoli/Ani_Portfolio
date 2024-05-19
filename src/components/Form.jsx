@@ -217,7 +217,7 @@ const Form = () => {
       {/* Form submission button */}
       <motion.div className="col-12 formGroup formSubmit">
         <Button
-          name={handleButtonText()}
+          name={handleButtonText()} color="#ea5b5c"
           disabled={nameError || messageError || emailError || subjectError || sending || success}
         />
       </motion.div>
