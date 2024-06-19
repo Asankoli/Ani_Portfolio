@@ -19,9 +19,9 @@
     "image2": "/projectImages/f1.jpeg",
     "image3": "/projectImages/p13.png",
     "body": "Our AlphaZero Board Game AI project showcases advanced machine learning techniques applied to classic board games like TicTacToe and Connect Four.\n The trained agents demonstrated exceptional strategic reasoning, consistently outperforming human players and achieving optimal gameplay strategies.\nKey features of this project include:\n➤ Superior Gameplay Performance: The AlphaZero agents exhibited strong strategic understanding and adaptive gameplay in TicTacToe and Connect Four, effectively countering opponent moves and securing victories.\n➤ Hyperparameter Tuning: Careful adjustment of hyperparameters, particularly maintaining a low temperature parameter, optimized the AI’s learning process. This approach favored conservative strategies, especially in TicTacToe, leading to frequent draw outcomes, while Connect Four saw advanced strategic maneuvers and marked learning advancements.\n➤ Quantitative Validation: Training efficacy was demonstrated through diminishing cross-entropy and mean squared error losses over successive training epochs, highlighting the AI’s improved move selection and game state valuation.\n➤ Interactive User Experience: A Django-based interface allowed users to engage in interactive gameplay sessions with the AI agents, providing insights into their strategies and decision-making processes.\nOverall, this project underscores the capabilities of AI in mastering complex board games, offering a blend of advanced machine learning, strategic gameplay, and interactive user engagement.",
-    "technologies": ["React", "Framer Motion", "Bootstrap", "HTML", "CSS"],
-    "github": "https://github.com/Jake-W95/P1",
-    "deployed": "https://p1-heroes.netlify.app/",
+    "technologies": ["Python", "JavaScript", "PyTorch", "MCTS"],
+    "github": "https://github.com/iamutk4/Reinforcement-Learning-AlphaZero/tree/utkarsh",
+    "deployed": "https://github.com/iamutk4/Reinforcement-Learning-AlphaZero/tree/utkarsh",
     "bgcolor": "#e47911",
     "id": "2"
   },
